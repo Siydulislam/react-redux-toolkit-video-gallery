@@ -1,5 +1,5 @@
-import likeimage from "../../assets/like.svg";
-import unlikeimage from "../../assets/unlike.svg";
+import likeImage from "../../assets/like.svg";
+import unlikeImage from "../../assets/unlike.svg";
 
 export default function LikeUnlike() {
     return (
@@ -8,7 +8,7 @@ export default function LikeUnlike() {
                 <div className="shrink-0">
                     <img
                         className="w-5 block"
-                        src={likeimage}
+                        src={likeImage}
                         alt="Like"
                     />
                 </div>
@@ -22,7 +22,7 @@ export default function LikeUnlike() {
                 <div className="shrink-0">
                     <img
                         className="w-5 block"
-                        src={unlikeimage}
+                        src={unlikeImage}
                         alt="Unlike"
                     />
                 </div>
