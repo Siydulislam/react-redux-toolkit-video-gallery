@@ -12,8 +12,7 @@
             "link": "https://www.youtube.com/embed/pCaf9WfDD6s",
             "thumbnail": "https://img.youtube.com/vi/pCaf9WfDD6s/maxresdefault.jpg",
             "tags": [
-                "css",
-                "ui/ux"
+                "responsive"
             ],
             "likes": 0,
             "unlikes": 0
@@ -64,8 +63,7 @@
             "link": "https://www.youtube.com/embed/W8HyWkefaGk",
             "thumbnail": "https://img.youtube.com/vi/W8HyWkefaGk/maxresdefault.jpg",
             "tags": [
-                "css",
-                "ui/ux"
+                "responsive"
             ],
             "likes": 0,
             "unlikes": 0
@@ -82,51 +80,39 @@
         },
         {
             "id": 3,
-            "title": "node"
+            "title": "next"
         },
         {
             "id": 4,
-            "title": "express"
+            "title": "node/express"
         },
         {
             "id": 5,
-            "title": "mongodb"
+            "title": "mongodb/mongoose"
         },
         {
             "id": 6,
-            "title": "mongoose"
-        },
-        {
-            "id": 7,
             "title": "redux"
         },
         {
+            "id": 7,
+            "title": "mern"
+        },
+        {
             "id": 8,
-            "title": "html"
+            "title": "responsive"
         },
         {
             "id": 9,
-            "title": "css"
-        },
-        {
-            "id": 10,
             "title": "sass"
         },
         {
-            "id": 11,
-            "title": "tailwind"
-        },
-        {
-            "id": 12,
-            "title": "bootstrap"
-        },
-        {
-            "id": 13,
-            "title": "materia/ui"
-        },
-        {
-            "id": 14,
+            "id": 10,
             "title": "ui/ux"
+        },
+        {
+            "id": 11,
+            "title": "misc"
         }
     ]
 }
