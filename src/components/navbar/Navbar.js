@@ -1,5 +1,5 @@
 import Search from "./Search";
-import logoImage from "../../assets/lws.svg";
+import logoImage from "../../assets/logo.svg";
 import searchImage from "../../assets/search.svg";
 import { Link } from "react-router-dom";
 
@@ -11,7 +11,7 @@ export default function Navbar() {
             >
                 <Link to="/">
                     <img
-                        className="h-10"
+                        className="h-10 w-36"
                         src={logoImage}
                         alt="Learn with Sumit"
                     />
