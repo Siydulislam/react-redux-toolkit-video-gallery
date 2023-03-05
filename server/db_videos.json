@@ -1,0 +1,218 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours",
+      "description": "This HTML Full Course for Beginners is an all-in-one beginner tutorial and complete course full of just over 4 hours of HTML code and instruction to help you learn web development skills. This course teaches HTML5. Think of this HTML full course tutorial as a HTML5 video textbook with 10 clearly defined chapters.",
+      "author": "Dave Gray",
+      "avatar": "https://avatars.githubusercontent.com/u/31679671?v=4",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/mJgBOIoGihA",
+      "thumbnail": "https://i3.ytimg.com/vi/mJgBOIoGihA/maxresdefault.jpg",
+      "tags": [
+        "html"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 2,
+      "title": "CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours",
+      "description": "This CSS Full Course for Beginners is an all-in-one beginner tutorial and complete course full of over 11 hours of CSS code and instruction to level up your web development skills. This course teaches CSS3. Think of this CSS full course tutorial as a CSS3 video textbook with 24 clearly defined chapters.",
+      "author": "Dave Gray",
+      "avatar": "https://avatars.githubusercontent.com/u/31679671?v=4",
+      "date": "April 25, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/n4R2E7O-Ngo",
+      "thumbnail": "https://i3.ytimg.com/vi/n4R2E7O-Ngo/maxresdefault.jpg",
+      "tags": [
+        "css"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 3,
+      "title": "JavaScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours",
+      "description": "This JavaScript Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 8 hours of JavaScript code and instruction to level up your programming skills. Web development beginners should learn Vanilla JavaScript (what this course is) before moving to a JavaScript library or framework like React JS, Vue JS, Svelte, Angular or others.",
+      "author": "Dave Gray",
+      "avatar": "https://avatars.githubusercontent.com/u/31679671?v=4",
+      "date": "March 11, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/EfAl9bwzVZk",
+      "thumbnail": "https://i3.ytimg.com/vi/EfAl9bwzVZk/maxresdefault.jpg",
+      "tags": [
+        "javascript"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 4,
+      "title": "React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours",
+      "description": "This React JS Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 9 hours of React JS code and instruction to level up your programming skills. This course teaches modern React with functional components and hooks. Think of this React full course tutorial as a React JS video textbook with 23 clearly defined chapters.",
+      "author": "Dave Gray",
+      "avatar": "https://avatars.githubusercontent.com/u/31679671?v=4",
+      "date": "Jan 06, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/RVFAyFWO4go",
+      "thumbnail": "https://i3.ytimg.com/vi/RVFAyFWO4go/maxresdefault.jpg",
+      "tags": [
+        "react"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 5,
+      "title": "Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours",
+      "description": "This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook with 15 clearly defined chapters.",
+      "author": "Dave Gray",
+      "avatar": "https://avatars.githubusercontent.com/u/31679671?v=4",
+      "date": "Nov 22, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/f2EqECiTBL8",
+      "thumbnail": "https://i3.ytimg.com/vi/f2EqECiTBL8/maxresdefault.jpg",
+      "tags": [
+        "node"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 6,
+      "title": "React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial",
+      "description": "This React Redux Full Course for Beginners is a complete tutorial full of 4 hours of React and Redux Toolkit code and instruction to help you learn state management with Redux. Think of this React Redux full course tutorial as a video textbook with 7 clearly defined chapters.",
+      "author": "Dave Gray",
+      "avatar": "https://avatars.githubusercontent.com/u/31679671?v=4",
+      "date": "Nov 08, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/NqzdVN2tyvQ",
+      "thumbnail": "https://i3.ytimg.com/vi/NqzdVN2tyvQ/maxresdefault.jpg",
+      "tags": [
+        "react",
+        "redux"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 7,
+      "title": "MERN Stack Full Tutorial & Project | Complete All-in-One Course | 8 Hours",
+      "description": "This MERN Stack Full Tutorial & Project provides a complete all-in-one course with 8 hours of code and instruction to level up your web development skills. Think of this MERN Stack Full Tutorial Course as a full stack video textbook with 13 clearly defined chapters.",
+      "author": "Dave Gray",
+      "avatar": "https://avatars.githubusercontent.com/u/31679671?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/CvCiNeLnZ00",
+      "thumbnail": "https://i3.ytimg.com/vi/CvCiNeLnZ00/maxresdefault.jpg",
+      "tags": [
+        "mern"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 8,
+      "title": "Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours",
+      "description": "This Tailwind CSS Full Course for Beginners provides a complete all-in-one tutorial with 3 hours of code and instruction to level up your web development skills. Think of this Tailwind CSS Course as a textbook with 5 clearly defined chapters.",
+      "author": "Dave Gray",
+      "avatar": "https://avatars.githubusercontent.com/u/31679671?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/lCxcTsOHrjo",
+      "thumbnail": "https://i3.ytimg.com/vi/lCxcTsOHrjo/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 9,
+      "title": "TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours",
+      "description": "This TypeScript Full Course for Beginners is an all-in-one beginner tutorial and complete course full of over 8 hours of TypeScript code and instruction to level up your web development skills. Think of this TypeScript full course tutorial as a TS video textbook with 17 clearly defined chapters.",
+      "author": "Dave Gray",
+      "avatar": "https://avatars.githubusercontent.com/u/31679671?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/gieEQFIfgYc",
+      "thumbnail": "https://i3.ytimg.com/vi/gieEQFIfgYc/maxresdefault.jpg",
+      "tags": [
+        "typescript"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "title": "HTML5"
+    },
+    {
+      "id": 2,
+      "title": "CSS3"
+    },
+    {
+      "id": 3,
+      "title": "Javascript"
+    },
+    {
+      "id": 4,
+      "title": "ReactJS"
+    },
+    {
+      "id": 5,
+      "title": "NextJS"
+    },
+    {
+      "id": 6,
+      "title": "ReduxJS"
+    },
+    {
+      "id": 7,
+      "title": "NodeJS"
+    },
+    {
+      "id": 8,
+      "title": "ExpressJS"
+    },
+    {
+      "id": 9,
+      "title": "MongoDB"
+    },
+    {
+      "id": 10,
+      "title": "MongooseODM"
+    },
+    {
+      "id": 11,
+      "title": "TailwindCSS"
+    },
+    {
+      "id": 12,
+      "title": "Bootstrap"
+    },
+    {
+      "id": 13,
+      "title": "typescript"
+    },
+    {
+      "id": 14,
+      "title": "miscellaneous"
+    }
+  ]
+}
