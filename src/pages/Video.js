@@ -11,7 +11,7 @@ export default function Video() {
     const dispatch = useDispatch();
     const { video, isLoading, isError, error } = useSelector((state) => state.video);
 
-    const { link, title } = video || {};
+    const { id, link, title, tags } = video || {};
 
     const { videoId } = useParams();
 
@@ -32,7 +32,7 @@ export default function Video() {
                     <VideoPlayer link={link} title={title} />
                     <VideoDescription video={video} />
                 </div>
-                <RelatedVideoList />
+                <RelatedVideoList currentVideoId={id} tags={tags} />
             </div>
         )
     }
